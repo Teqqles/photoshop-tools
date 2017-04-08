@@ -14,6 +14,8 @@ These scripts have no warranty, implied or otherwise and are used at your own ri
 
 ### Generate Packed Texture Image
 
+[![Multiple UV maps into a single file](http://img.youtube.com/vi/t1Xt7xroq-E/0.jpg)](http://www.youtube.com/watch?v=t1Xt7xroq-E)
+
 Tool to assist with packing texture maps into a single image file, a handy thing to do if you are attempting to optimize games for mobile.
 
 #### Usage
